@@ -1,6 +1,4 @@
-# LED Arduino
-
-Control básico de LED con tarjeta Arduino.
+# Control básico de LED con tarjeta Arduino.
 
 Contenido:
 - Algoritmo para encender un LED.
